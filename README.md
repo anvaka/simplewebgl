@@ -1,6 +1,6 @@
 # simplewebgl
 
-Simple webgl library used by vivagraph
+Simple webgl library used by vivagraph. Work in progress.
 
 # install
 
